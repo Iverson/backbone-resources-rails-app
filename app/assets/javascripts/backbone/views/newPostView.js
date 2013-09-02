@@ -1,4 +1,4 @@
-App.Views.PostNewForm = Resource.View.extend({
+App.Views.PostNewForm = Backbone.View.extend({
   el: "#app",
   
   events: {
